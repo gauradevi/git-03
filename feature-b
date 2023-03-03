@@ -2,3 +2,4 @@ created branch feature b and file .
 Hello world 
 Good morning
 
+Generally, the stash's meaning is "store something safely in a hidden place." The sense in Git is also the same for stash; Git temporarily saves your data safely without committing.
